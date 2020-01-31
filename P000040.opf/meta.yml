@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །སྨན་སྒོམ་གྱི་དྲིས་ལན། གཉིས་ཆོས་ཟུང་འཇུག་གི་ངོ་སྤྲོད་ཞལ་གདམས་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  sku: TSD-TSE-12
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: An Introduction to the Unity of Dualistic Phenomena:Answers to Mangom’s Questions
+    bo: སྨན་སྒོམ་གྱི་དྲིས་ལན། གཉིས་ཆོས་ཟུང་འཇུག་གི་ངོ་སྤྲོད་ཞལ་གདམས་བཞུགས་སོ།།
+  collection:
+    en: Tsele Natsok Rangdrol Series–  Book 12
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།–  དེབ། ༡༢
+  author:
+    en: Tsele Natsok Rangdrol
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-TSE-12
+  category:
+    en: Pith Instructions
+    bo: མན་ངག
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-TSE-12.epub
+  description:
+    en: ''
+    bo: ''
